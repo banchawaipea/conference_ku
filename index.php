@@ -106,23 +106,23 @@
                     >
                   </li>
                   <li class="menu-item">
-                    <a class="menu-link" href="#" data-href="#section-speakers"
-                      ><div>Speakers</div></a
+                    <a class="menu-link" href="#" data-href="#section-abstract"
+                      ><div>Abstract & paper submission</div></a
                     >
                   </li>
                   <li class="menu-item">
-                    <a class="menu-link" href="#" data-href="#section-schedule"
-                      ><div>Schedule</div></a
+                    <a class="menu-link" href="#" data-href="#section-conference"
+                      ><div>Conference Themes</div></a
                     >
                   </li>
                   <li class="menu-item">
-                    <a class="menu-link" href="#" data-href="#section-tickets"
-                      ><div>Tickets</div></a
+                    <a class="menu-link" href="#" data-href="#section-organization"
+                      ><div>Organization</div></a
                     >
                   </li>
                   <li class="menu-item">
-                    <a class="menu-link" href="#" data-href="#section-sponsors"
-                      ><div>Sponsors</div></a
+                    <a class="menu-link" href="#" data-href="#section-advisor"
+                      ><div>International Advisory</div></a
                     >
                   </li>
                   <li class="menu-item">
@@ -333,7 +333,7 @@
           <!-- Section Abstract & paper submission
 				============================================= -->
           <div
-            id="section-schedule"
+            id="section-abstract"
             class="section page-section bg-transparent pt-0 topmargin clearix"
           >
             <div class="container">
@@ -435,7 +435,7 @@
 		  <!-- Section Conference Themes
 				============================================= -->
 				<div
-				id="section-about"
+				id="section-conference"
 				class="section page-section bg-transparent pt-0 clearfix"
 			  >
 				<div class="container clearfix">
@@ -548,7 +548,7 @@
 	
 			  <div class="clear"></div>
 			 <!-- #section-Organization & Committees --> 
-			 <div class="section bg-transparent m-0 clearfix">
+			 <div id="section-organization" class="section bg-transparent m-0 clearfix">
 				<div class="container">
 				  <div class="mx-auto dark center" style="max-width: 850px">
 					<span class="display-4 fw-bold gradient-underline">Organization & Committees</span>
@@ -672,7 +672,7 @@
 				  </div>
 
 				  <div class="line"></div>
-				  <div class="mx-auto dark center" style="max-width: 850px">
+				  <div id="section-advisor" class="mx-auto dark center" style="max-width: 850px">
 					<span class="display-4 fw-bold gradient-underline">International Advisory Committee</span>
 					<!-- <p class="lead text-white-50">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -1043,7 +1043,7 @@
 
           <!-- Upcoming Events
 				============================================= -->
-          <div class="section bg-transparent m-0 clearfix">
+          <!-- <div class="section bg-transparent m-0 clearfix">
             <div class="container">
               <div class="mx-auto dark center" style="max-width: 850px">
                 <span class="display-4 fw-bold gradient-underline"
@@ -1137,7 +1137,7 @@
                       </div>
 					  
             </div>
-          </div>
+          </div> -->
           <!-- #Related Events end -->
         </div>
       </section>
@@ -1176,8 +1176,8 @@
                         height="100"
                       />
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit. Odio, consequatur facere molestiae iusto atque.
+                      The 21st Southeast Asian Geotechnical Conference and 4th
+                    AGSSEA Conference
                       </p>
 
                       <a
